@@ -1,4 +1,5 @@
-# integracao-continua-t4
+# Aplicação de gerenciamento de uma Clinica de saude.
+Esta aplicação foi desenvolvida com intuito de estudo e pratica do desenvolvimento Web Full Stack. Utilizando das Ferramentas (Java Spring Boot, e Angular)
 
 Repositório da disciplina Integração Contínua (Turma 4)
 
